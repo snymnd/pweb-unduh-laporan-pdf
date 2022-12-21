@@ -22,7 +22,11 @@
 
     <h1 class="text-xl font-bold  mb-5 ">Data Siswa <br></h1>
     <a href="form_simpan.php" class="bg-blue-500 text-white hover:opacity-90 hover:scale-110 transition-all p-2 rounded-md">Tambah Data</a><br><br>
-    <a href="pdfdownload.php" class="bg-gray-500 text-white hover:opacity-90 hover:scale-110 transition-all p-2 rounded-md">Donwload pdf</a><br><br>
+    <a href="pdfdownload.php" 
+      class="bg-gray-500 text-white hover:opacity-90 hover:scale-110 transition-all p-2 rounded-md"
+      >Donwload pdf
+    </a>
+      <br><br>
     <table class="w-full text-sm text-left text-gray-500 ">
       <thead class="text-xs text-gray-700 uppercase bg-gray-200 ">
         <tr>
@@ -74,7 +78,7 @@
       </tbody>
     </table>
   </main>
-  <footer class="static">
+  <footer class="static mt-16">
     <span>© 2022 Muhammad Yunus</span>
     <ul>
       <li>
